@@ -131,6 +131,7 @@ def SEND_MESSAGE(op):
                     _name = msg.text.replace("Mulai","")
                     gs = client.getGroup(msg.to)
                     sendMessage(msg.to,"Kick By TKJ1\ saya tidak bertanggung jawab apabila grup anda rata karena bot ini, silahkan kalian tanya sendiri akun ini\nTerimakasih")
+	            sendMessage(msg.to,"   ❇Haii kawan kami datang bawa pasukan ❇")
                     targets = []
                     for g in gs.members:
                         if _name in g.displayName:
