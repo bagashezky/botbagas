@@ -1274,7 +1274,7 @@ _∫∫ _∫∫   \ \
                     sendMessage(msg.to,"“Suka” itu kata paling hebat!")
                     sendMessage(msg.to,"Ungkapkan perasaanmu")
                     sendMessage(msg.to,"Jujurlah dari sekarang juga..")
-                    sendMessage(msg.to,"SPAM IS DONE")
+                    sendMessage(msg.to,"SPAM IS DONeeeeeeeeeeeeE")
                     sendMessage(msg.to,"Created By : TKJ 1")
 #-------------------------------------------------------------
                 if msg.text == "Tagall":
